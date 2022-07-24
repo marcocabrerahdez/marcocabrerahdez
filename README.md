@@ -6,5 +6,5 @@ I'm [Marco Cabrera](https://github.com/marcocabrerahdez)！I am a passionate stu
 
 ## 🧐 About
 
-- 👨‍💻 My personal website https://marcocabrerahdez.vercel.app/
+- 👨‍💻 My personal website: https://marcocabrerahdez.vercel.app/
 - 📫 How to reach me: marco.cabrerahdez@gmail.com
