@@ -4,7 +4,7 @@ I'm [Marco Cabrera](https://github.com/marcocabrerahdez)！I am a passionate stu
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://marcocabrerahdez.vercel.app/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&show_icons=true&hide_border=true?theme=nightowl">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcocabrerahdez?theme=nightowl">
 
 ## 🧐 About
 
