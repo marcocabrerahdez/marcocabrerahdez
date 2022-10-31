@@ -2,7 +2,7 @@
 
 I'm [Marco Cabrera](https://github.com/marcocabrerahdez)！I am a passionate student of Computer Science. I create amazing web applications to make the internet a better place.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&theme=nightowl&show_icons=true&hide_border=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&show_icons=true&theme=nightowl)
 
 ## 🧐 About
 
