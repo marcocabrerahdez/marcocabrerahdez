@@ -1,6 +1,6 @@
 # Hi there! 🦖
 
-I'm [Marco Cabrera](https://github.com/marcocabrerahdez)！I am a passionate student of Computer Science. I create amazing web applications to make the internet a better place.
+I'm **Marco Cabrera！** I am a passionate student of Computer Engineering. I create amazing web applications to make the internet a better place.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&show_icons=true&theme=nightowl)
 
