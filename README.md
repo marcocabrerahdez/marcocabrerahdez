@@ -1,4 +1,4 @@
-# Hi there! 🦖
+# Hi there! 🦕
 
 I'm **Marco Cabrera!** I am a passionate student of Computer Engineering. I create amazing web applications to make the internet a better place.
 
