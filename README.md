@@ -1,6 +1,6 @@
 # Hi there! 🦕
 
-I'm **Marco Cabrera!** I am a passionate student of Computer Engineering. I create amazing web applications to make the internet a better place.
+I'm **Marco Cabrera!** I'm a computer engineer focused on web development, who enjoys working in teams solving complex problems. I'm also very interested in Artificial Intelligence, specifically Machine Learning and bioinformatics.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&show_icons=true&theme=nightowl)
 
