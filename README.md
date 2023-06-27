@@ -2,8 +2,6 @@
 
 I'm **Marco Cabrera!** I'm a computer engineer focused on web development, who enjoys working in teams solving complex problems. I'm also very interested in Artificial Intelligence, specifically Machine Learning and bioinformatics.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocabrerahdez&show_icons=true&theme=nightowl)
-
 ## 🧐 About
 
 - 👨‍💻 My personal website: https://marcocabrerahdez.vercel.app/
