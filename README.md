@@ -1,10 +1,9 @@
 # Hi there! 🦕
 
-I'm **Marco Cabrera!** I'm a computer engineer focused on web development, who enjoys working in teams solving complex problems. I'm also very interested in Artificial Intelligence, specifically Machine Learning and bioinformatics.
+I'm **Marco Cabrera!** I'm a computer engineer focused on web development, who enjoys working in teams solving complex problems.
 
 ## 🧐 About
 
-- 👨‍💻 My personal website: https://marcocabrerahdez.vercel.app/
 - 📫 How to reach me: marco.cabrerahdez@gmail.com
 
 ## 💻 Tech Stack:
