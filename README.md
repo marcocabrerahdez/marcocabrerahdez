@@ -27,6 +27,3 @@
 - **Improving clinical decision-making by creating surrogate models…**  
   *Computer Methods and Programs in Biomedicine* (2025)  
   https://doi.org/10.1016/j.cmpb.2025.108646
-
-## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcocabrerahdez/)
