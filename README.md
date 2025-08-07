@@ -1,14 +1,32 @@
-# 👋🏻 Hi there!
+# Hi there! 👋 I'm Marco Cabrera
 
-I'm **Marco Cabrera!** I’m a passionate and innovative Software Engineer specializing in machine learning and backend development.
+**Machine Learning Engineer** at Nartex Software and former **Junior AI Researcher** at the University of La Laguna. Passionate about taking AI models to production—from RAG pipelines to full-scale MLOps.
 
-## 🌟 About Me
-- 💻 **Software Engineer** with a passion for writing clean, efficient, and scalable code.
-- 👔 Proficient in designing and implementing robust systems with Go.
-- 🚀 Building AI models and systems; recently implementing a RAG for document summarization.
-- ⚡️ Thrilled about experimenting with modern tech stacks.
+## 👨‍💻 About Me
+- 🌟 Leading a **RAG pipeline** with Transformers & FAISS for document classification (93% accuracy).  
+- 🚀 Building **ETL pipelines** with Airflow, processing millions of records daily.  
+- 🤖 Developed a **CNN** in TensorFlow/Keras for defect detection (94% validation accuracy).  
+- 🐳 Docker & Kubernetes: deployed inference microservices, cutting deployment time by 60%.  
+- 📈 MLOps: Prometheus, Grafana, MLflow & Optuna for monitoring, drift detection & automated tuning.  
+- 🧪 Co-author of a paper on **surrogate models** for clinical decision support in T1DM, published in *Computer Methods and Programs in Biomedicine*.
 
-## 📫 How to reach me
-- Email: [marco.cabrerahdez@gmail.com](mailto:marco.cabrerahdez@gmail.com)
-- LinkedIn: [marcocabrerahdez](https://www.linkedin.com/in/marcocabrerahdez/)
-- Portfolio: [marcocabrerahdez.dev](https://www.marcocabrerahdez.dev/)
+## 🛠️ Skills & Tools
+- **Languages:** Python (NumPy, Pandas), SQL  
+- **Machine Learning:** Transformers, FAISS, CNNs (TensorFlow/Keras)  
+- **MLOps:** Airflow, Docker, Kubernetes, MLflow, Optuna, Prometheus, Grafana, Feast  
+- **Frontend:** Next.js, Tailwind CSS, React  
+- **Blogging:** MDX, remark-gfm, rehype-highlight  
+
+## 📂 Featured Projects
+- **RAG Pipeline for Legal Docs**  
+  Document classification with Transformers + FAISS (93% accuracy).  
+- **Surrogate Models for T1DM**  
+  Replaced complex HTA models with ML surrogate models (IoU > 0.9, 2700× faster).
+
+## 📄 Publications
+- **Improving clinical decision-making by creating surrogate models…**  
+  *Computer Methods and Programs in Biomedicine* (2025)  
+  https://doi.org/10.1016/j.cmpb.2025.108646
+
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcocabrerahdez/)
