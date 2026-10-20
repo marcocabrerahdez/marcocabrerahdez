@@ -23,7 +23,3 @@ marco = {
 ### 🌱 Right now
 
 Going deep on **Claude, Claude Code and AI-assisted software development**, and on how to evaluate LLM systems in domains where mistakes are expensive.
-
-### 📫 Say hi
-
-[LinkedIn](https://linkedin.com/in/marcocabrerahdez)
