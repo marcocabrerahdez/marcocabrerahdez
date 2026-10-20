@@ -13,13 +13,6 @@ marco = {
 }
 ```
 
-### 🧭 Things I've learned the hard way
-
-- **If you can't measure it, it's a demo.** Evals first, prompt tweaks second.
-- **Not everything needs an LLM.** A well-tuned classical model routing citizen requests reached 92.8% accuracy, no agent required.
-- **Documents are never as clean as the sample.** OCR, layout parsing and deduplication are half the battle.
-- **Shipping is part of the job.** A model that lives in a notebook doesn't help anyone.
-
 ### 🧪 Some things I've built
 
 - 🤝 An **agent-to-agent (A2A) layer** so independent agents could talk to each other inside a public-sector platform.
