@@ -1,44 +1,36 @@
-# Hi there! 👋 I'm Marco Cabrera
+## Hey, I'm Marco 👋
 
-**AI/ML Engineer at Atos**, focused on building reliable AI systems that make it to production. My work spans agentic applications, retrieval-augmented generation, document intelligence, ML pipelines, and cloud-native deployment.
+I build things with LLMs from a small island in the Atlantic 🌋 (Tenerife).
 
-## 👨‍💻 What I work on
+Most of my days go into the unglamorous part of AI: getting agents, retrieval and models to behave once real users, messy PDFs and production traffic show up.
 
-- 🤖 Build production AI agents and conversational backends with **Python, FastAPI, LangGraph, and Vertex AI**.
-- 🔎 Design **RAG and document-processing pipelines** for complex enterprise and public-sector workflows.
-- 📄 Develop document intelligence systems combining **Docling/OCR, LLM-based extraction, and scalable duplicate detection**.
-- ☁️ Ship services on **GCP** using **Cloud Run, Cloud Build, Secret Manager, Docker, and Kubernetes**.
-- 🔄 Build **CI/CD and MLOps workflows** for reproducible, observable deployments across environments.
-- 📊 Develop and evaluate classical ML systems alongside LLM-based solutions, choosing the simplest approach that fits the problem.
+```python
+marco = {
+    "based_in": "Tenerife, Canary Islands",
+    "builds": ["agents", "RAG pipelines", "document intelligence", "the plumbing around them"],
+    "speaks": ["Python", "TypeScript", "SQL", "a bit of Go"],
+    "currently_obsessed_with": "agentic engineering — letting agents write code without letting go of quality",
+}
+```
 
-## 🛠️ Tech stack
+### 🧭 Things I've learned the hard way
 
-**AI & LLMs**  
-LangGraph · LangChain · Vertex AI · Gemini · RAG · Hugging Face · FAISS
+- **If you can't measure it, it's a demo.** Evals first, prompt tweaks second.
+- **Not everything needs an LLM.** A well-tuned classical model routing citizen requests reached 92.8% accuracy, no agent required.
+- **Documents are never as clean as the sample.** OCR, layout parsing and deduplication are half the battle.
+- **Shipping is part of the job.** A model that lives in a notebook doesn't help anyone.
 
-**Backend & Data**  
-Python · FastAPI · PostgreSQL · Pandas · NumPy · Apache Airflow
+### 🧪 Some things I've built
 
-**Cloud & Platform**  
-GCP · Docker · Kubernetes · Cloud Run · Cloud Build · GitLab CI/CD
+- 🤝 An **agent-to-agent (A2A) layer** so independent agents could talk to each other inside a public-sector platform.
+- ⚖️ A pipeline that reads legal documents, extracts what matters and spots near-duplicates with **MinHash + LSH**, instead of comparing everything against everything.
+- 🔎 **RAG systems** evaluated with RAGAS, because "it looks right" isn't a metric.
+- 🩺 **Surrogate ML models** that replace a slow clinical simulation for Type 1 Diabetes: ~**2,700× faster**, IoU > 0.9. Started as my [bachelor's thesis](https://github.com/marcocabrerahdez/TFG) and ended up as a [peer-reviewed paper](https://doi.org/10.1016/j.cmpb.2025.108646).
 
-**ML Engineering**  
-scikit-learn · Optuna · model evaluation · feature engineering · ML pipelines
+### 🌱 Right now
 
-## 🔬 Selected work
+Going deep on **Claude, Claude Code and AI-assisted software development**, and on how to evaluate LLM systems in domains where mistakes are expensive.
 
-- **Agentic AI for enterprise workflows** — production conversational systems with tool use, streaming, authentication, and retrieval over domain documentation.
-- **Legal document intelligence** — automated processing and metadata extraction with multi-level duplicate detection using MinHash + LSH.
-- **Large-scale ML classification** — trained and benchmarked classifiers on 118K+ samples, reaching **92.8% accuracy** and **83.7% macro-F1**.
-- **Retrieval-Augmented Generation** — built a RAG pipeline for legal-compliance document classification, reaching **93% accuracy**.
+### 📫 Say hi
 
-## 📄 Research
-
-Co-author of a peer-reviewed paper on ML surrogate models for Type 1 Diabetes Mellitus clinical decision-support systems, achieving **IoU > 0.9** with approximately **2700× speedup**.
-
-**Computer Methods and Programs in Biomedicine (2025)**  
-https://doi.org/10.1016/j.cmpb.2025.108646
-
----
-
-I'm particularly interested in **production AI, agentic systems, retrieval, evaluation, and AI platform engineering**.
+[LinkedIn](https://linkedin.com/in/marcocabrerahdez) · [X](https://x.com/marcocabrerahdez) · [dev.to](https://dev.to/marcocabrerahdez)
