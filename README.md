@@ -26,4 +26,4 @@ Going deep on **Claude, Claude Code and AI-assisted software development**, and 
 
 ### 📫 Say hi
 
-[LinkedIn](https://linkedin.com/in/marcocabrerahdez) · [X](https://x.com/marcocabrerahdez) · [dev.to](https://dev.to/marcocabrerahdez)
+[LinkedIn](https://linkedin.com/in/marcocabrerahdez)
